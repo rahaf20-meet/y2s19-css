@@ -1,1 +1,57 @@
+.trend{
+	background-color: #041b47; 
+	color: #d36582;
+}
+a{
+	color:#0b73ba;
+}
+.cute{
+	color:#727072;
+	
+}
+.notCute{
+	color:#4b5358;
+	
+}
+#header{
+	color:#727072;
+}
+#writer{
+	position:absolute;
+	top:50px;
+}
+.sidebar{
+	background-color: #ffffff;
+	position: absolute;
+	top:25px;
+	left:0px;
+	width:190px;
+	height:100%;
+	padding: 10px;
+	box-sizing: border-box;
 
+}
+.title{
+	height: 60px;
+	width: 100%;
+	box-sizing: border-box;
+	border:3px solid grey;
+}
+.container{
+	position: relative;
+	height:1000px;
+	box-sizing: border-box;
+
+}
+.content{
+	position: absolute;
+	top: 0px;
+	left:200px;
+	box-sizing: border-box;
+	border:2px solid grey;
+	margin: 5px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:15px;
+	padding-left:15px;
+}
